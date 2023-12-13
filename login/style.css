@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: seagreen;
+}
+.login{
+    width: 420px;
+    color: #fff;
+    background: purple;
+}
+.login h1{
+font-size: 40px;
+text-align: center;
+}
